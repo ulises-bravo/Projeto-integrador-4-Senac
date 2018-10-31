@@ -1,3 +1,3 @@
-# Projeto-integrador - Site Web Instituto Libertat
-Site Web Instituto Libertat
-Projeto Integrador 4 - Senac Informática
+Site Web/Mobile Instituto Libertat
+Site Instituto Libertat
+Fez parte do Projeto Integrador para conclução do curso Tecnico no Senac Infomática
