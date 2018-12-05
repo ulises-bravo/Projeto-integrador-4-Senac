@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<itunes:category text="Business"/>
+<itunes:category text="Government &amp; Organizations"/>
+<itunes:category text="Politics"/>
+<itunes:category text="News &amp; Politics"/>
+<itunes:explicit>NO</itunes:explicit>
+<itunes:keywords>libercast,libertat,politica,libertarianism,liberdade,ancap,anarquia</itunes:keywords>
+<itunes:summary>Em busca da liberdade</itunes:summary>
+<itunes:subtitle>Libercast</itunes:subtitle>
+<itunes:image href="http://institutolibertat.org/podcast/libercast.png"/>
+<itunes:author>Instituto Libertat</itunes:author>
+<webMaster>http://institutolibertat.org/</webMaster>
+<copyright>Copyright @ 2018 instituto Libertat</copyright>
+<language>pt-br</language>
+<title>Libercast #1 - Apresentação Instituto Libertat com Prof. Carlo e Equipe</title>
+<link>http://institutolibertat.org/</link>
+<description>Instituto Libertat</description>
+<pubDate>Fri, 05 Out 2018 20:00:00 -3000</pubDate>
+<itunes:owner>
+  <itunes:name>Libercast #1 - Apresentação Instituto Libertat com Prof. Carlo e Equipe</itunes:name>
+  <itunes:email>contato@institutolibertat.org</itunes:email>
+</itunes:owner>
+<image>
+  <title>Título da imagem</title>
+  <link>URL redirecionada da imagem</link>
+  <url>URL da imagem</url>
+</image>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">> 
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:520799439/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:520799439/sounds.rss?before=511471326" rel="next" type="application/rss+xml"/>
+        <title>Instituto Libertat</title>
+        <link>http://institutolibertat.org</link>
+        <pubDate>Wed, 10 Oct 2018 19:32:16 +0000</pubDate>
+        <lastBuildDate>Wed, 10 Oct 2018 19:32:16 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>pt</language>
+        <copyright>All rights reserved - Instituto Libertat</copyright>
+        <webMaster>contato@institutolibertat.org</webMaster>
+        <description>Podcast by Instituto Libertat</description>
+        <itunes:subtitle>Podcast by Instituto Libertat</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Instituto Libertat</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Instituto Libertat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000516199602-n9dd80-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000516199602-n9dd80-original.jpg</url>
+          <title>Instituto Libertat</title>
+          <link>http://institutolibertat.org</link>
+        </image>
+        <itunes:category text="News &amp; Politics"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/511471326</guid>
+      <title>1# Podcast - Apresentação Instituto Libertat com Prof. Carlo</title>
+      <pubDate>Mon, 08 Oct 2018 20:55:36 +0000</pubDate>
+      <link>https://soundcloud.com/institutolibertat/podcast-apresentacao-instituto-libertat-com-prof-carlo</link>
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:author>Instituto Libertat</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1# Podcast - Apresentação Instituto Libertat com Prof. Carlo by Instituto Libertat</itunes:summary>
+      <itunes:subtitle>1# Podcast - Apresentação Instituto Libertat com …</itunes:subtitle>
+      <description>1# Podcast - Apresentação Instituto Libertat com Prof. Carlo by Instituto Libertat</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/511471326-institutolibertat-podcast-apresentacao-instituto-libertat-com-prof-carlo.mp3" length="0"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000417716109-czw4vh-original.jpg"/>
+    </item>
+      </channel>
+    </rss>
